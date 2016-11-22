@@ -1,2 +1,7 @@
-# Waterway Mapping
-
+Waterways, Bridges, Fords, Dams
+===========================
+* **waterway=stream**
+* **waterway=river** - If you see obvious waterways, please map them. They are usually much lighter color, grey than roads/paths and you can often see rocks and split channels. Much like the road system, please find where the waterway connects to the main waterway network and map it to connection. Mapping waterways implies a direction as well so zoom out, look for already mapped waterways nearby, or use the OpenCycleMap background layer to help determine which direction the water flows.
+* **bridge=yes** - This tag is placed on a segment of road that is just the same size as the bridge and also needs a tag that says **layer=1** to indicate it is above the waterway. *The waterway and the road do NOT share a node.*
+* **ford=yes** - If you see a road crossing a waterway try to confirm a bridge or a ford. Fords are places where the road just drives through the waterway. To map a ford, have *the waterway and the road DO share a node* and put the ford=yes tag on that one single node.
+* **waterway=dam** - Dams are a little confusing to map, please see the references listed below and ask a more experienced mapper to help you. But they are important to map if you can identify them.
