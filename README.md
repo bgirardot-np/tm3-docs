@@ -6,7 +6,7 @@ The Chapters in the book are organized around different mapping object types, e.
 
 Hopefully there is a sub chapter level that I can use to have the actual text of the proposed instructions.
 
-This full default set of instructions will be made available at project creation time and Project Managers an just select they ones they like or none at all. 
+This full default set of instructions will be made available at project creation time and Project Managers can just select they ones they like or none at all. 
 
 Our goal is consistent, good instructions that are default so we are confident with the best set of instructions available at project creation by doing nothing.
 
