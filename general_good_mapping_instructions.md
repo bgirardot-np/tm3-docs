@@ -1,2 +1,10 @@
-# General Good Mapping Instructions
-
+General Mapping Notes
+====================
+* **Be as precise as possible** - This takes a little bit of practice, but following a road closely or the outline of a building carefully really makes a difference in the quality of map data produced. Quality is more important than quantity when it comes to mapping. Zooming in close helps.
+* **changeset comments** - These are filled in with some default information but you should always add what you mapped. For example "added buildings and roads" or "added in some waterways"
+* **It is ok to "split" task squares** - Sometimes a task square will have a lot detailed settlement mapping. If you think it would help to make the task square smaller so the mapping could be finished in a more reasonable time, use the "split" link above the task square comment box.
+* **Personal knowledge** - If you have local knowledge, that is incredibly valuable and any information you are 100% sure of you can add to the object you are mapping. Building names, health facilities, names of roads, etc, are all very valuable and the name= tag can be used to supply that information. 
+* **Sometimes a task square is already mapped** - Sometimes you will find a task square that looks totally mapped or has nothing in it to map. Just double check that it is complete, map anything that was missed, straighten up anything that needs it and then mark it "Done".
+* **Invalidated task squares** - You might get a notice that a task square was "invalidated" that almost always just means someone found a few more things to map and they did not have time to map them in. No worries, it is part of the process and happens all the time. **If you have to stop mapping before you have mapped everything use the "Unlock" link instead of "Done"** As long as you are trying to map everything in a task square you feel confident mapping before you mark one "Done" then all is good. 
+* **Ask questions** - if you have questions, please ask. The front page of this [HOT Tasking Manager](http://tasks.hotosm.org/) website offers a few ways to ask or if you are at a mapping event, raise your hand and ask.
+* **You are making a real difference mapping** - Every contribution matters in a real, tangible way. Mapping in not easy but know that your mapping is used by humanitarian organizations around the world every single day.
