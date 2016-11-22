@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Specific Project Instructions
+* [Specific Project Instructions](specific_project_instructions.md)
 * [Building Mapping](chapter1.md)
 * [Road Mapping](road_mapping.md)
 * [Residential Area Mapping](residential_area_mapping.md)
