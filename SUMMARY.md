@@ -9,4 +9,5 @@
 * [Waterway Mapping](waterway_mapping.md)
 * [General Good Mapping Instructions](general_good_mapping_instructions.md)
 * [Roads, buildings, streams with images](roads,_buildings,_streams_with_images.md)
+* Rural Land Mapping
 
