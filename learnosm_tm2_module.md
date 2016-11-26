@@ -24,7 +24,7 @@ The first thing to understand is access level. All access to TM2 is authorized t
 ### Access Levels within the OSM Tasking Manager
 The OSM Tasking Manager has three user access levels:
 -  **User** - The most basic level. The user is able to login to TM2 and use its functionality to find and select a mapping project and work on it. This level of usage is fully described in [The OSM Tasking Manager guide within LearnOSM](/en/coordination/tasking-manager/). Note that some projects, such as those in draft (i.e. unpublished) state are not visible to users.  
--  **Project Manager** - Project managers are endowed with privileges to create and update projects within TM2.  
+-  **Project Manager** - Project managers have access to create and update projects within TM2.  
 -  **Administrator** - Administrators have access that allows them to manage access levels of users within TM2.
 You will need Project Manager Access level to create new projects using TM2.
 
