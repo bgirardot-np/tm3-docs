@@ -11,4 +11,5 @@
 * [General Good Mapping Instructions](general_good_mapping_instructions.md)
 * [Roads, buildings, streams with images](roads,_buildings,_streams_with_images.md)
 * [TM Project Creation Best Practices](tm_project_creation_best_practices.md)
+* LearnOSM TM2 Module
 
