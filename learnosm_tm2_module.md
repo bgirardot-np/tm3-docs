@@ -38,7 +38,7 @@ Click your username in the upper right corner, then **Create a New Project.** Yo
 
 > Importing a file with a defined area is always preferable to hand drawing a Tasking Manager project. Tools like JOSM, QGIS, etc can be used to create files for importing into the Tasking Manager.
 
-### Draw an area of interest to be mapped
+#### Draw an area of interest to be mapped
 
 ![TM Draw][]
 
@@ -48,16 +48,20 @@ Click your username in the upper right corner, then **Create a New Project.** Yo
 
 or
 
-### Upload a GeoJSON or KML file of the area of interest to be mapped  
+#### Upload a GeoJSON or KML file of the area of interest to be mapped  
 
 1. Click the ‘Import’ button,  
 2. Browse to your file in the File Upload window,  
 3. Click the file name to highlight the file and then click ‘Open’.  
 
-The area of interest defined in the GeoJSON or KML file will appear in the map frame, and you will then be asked to choose how the area of interest is split into individual tasks.  There are two options:  
+
 
 ### Task Squares
-The area of interest defined in the GeoJSON or KML file will appear in the map frame, and you will then be asked to choose how the area of interest is split into individual tasks.   
+
+The area of interest defined by the file upload or hand drawn will appear in the map frame, and you will then be asked to choose how the area of interest is split into individual tasks.  There are two options:  
+
+1. Square Grid - The Tasking manager will uniformly divided up the overall project area in the exactly the same sized task squares. This is usually a very good idea for general corwdmapping projects.
+2. Arbitrary Geometries - If you uploaded a file to define your project area, that file can also contain the shapes for the individual task. There has a to be special need in the mapping to create custom task shapes. An import of roads project might need custom task shapes for example.
 
 ### Splitting the Area of Interest into Task Squares
 There are two options for delineating the individual tiles that represent an area to be mapped. You may select square tiles of equal size or create arbitrary shapes:
