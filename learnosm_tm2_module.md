@@ -80,7 +80,7 @@ The area of interest is automatically split into grid cells and each cell become
 -  **Conclusion** Try mapping an area of the project yourself to see how easy it is and what difficulties will be faced. This should help you to decide on an optimum square size. Allow splitting, but not to infinity - some new mappers continually split squares until they are so small that it becomes extremely difficult to map.  
 
 ### Arbitrary Geometries
-It is possible if you uploaded a file to define your project area, it could  information about the exact shapes you want your project's individual tasks to be.  If the AOI consists of one polygon, the project will have just one task.
+It is possible if you uploaded a file to define your project area, it could also contain information about the exact shapes you want your project's individual tasks to be.  If the AOI consists of one polygon, the project will have just one task. This is generally not needed and should only be needed for specific needs.
 
 ### Considerations concerning Imagery
 
@@ -92,11 +92,11 @@ In most cases we use the "standard" Bing imagery. But there are situations where
 
 If Bing does not prove adequate then Mapbox is the next choice. You should only look for other sources if neither of these two meet your requirements.
 
-In such cases it is not sufficient to choose a license-compatible source and make it available through a WMS or TMS service. Your AOI has probably already been partially mapped using Bing or Mapbox imagery and there might be a noticeable offset between images. You must have a close look at various locations of your AOI and determine the offset between your imagery and previously mapped data. If those data are offset with respect to your imagery but fit Bing imagery then we usually assume that Bing is the "gold standard" unless we have GPS traces which prove that this assumption is wrong.
+In such cases it is not sufficient to choose a license-compatible source and make it available through a WMS or TMS service. Your AOI has probably already been partially mapped using Bing or Mapbox imagery and there might be a noticeable offset between images. You must have a close look at various locations of your AOI and determine the offset between your imagery and previously mapped data. If the existing OSM data are offset with respect to your imagery but fit Bing imagery then we usually assume that Bing is the "gold standard" unless we have GPS traces which prove that this assumption is wrong.
 
 If there is a constant offset between your imagery and Bing across the AOI then this might be corrected on the server so that images from various sources loaded in the editor match. If this is not possible, if the offset varies across the AOI or if existing data are aligned with various sources then it is time for plan B:
 
-The important point is that you must develop a strategy how to cope with these issues and provide a detailed guideline to contributors. We strongly suggest that you declare such a project "for experienced mappers only" and explain that experience in this case does not mean having mapped 200+ buildings but having already dealt with alignment issues and different imagery sources.
+The important point is that you must develop a strategy for how to cope with these issues and provide a detailed instructions to mappers and validators. We strongly suggest that you declare such a project "for experienced mappers only" and explain that experience in this case does not mean having mapped 200+ buildings but having already dealt with alignment issues and different imagery sources.
 
 One possible strategy could include these steps:
 
