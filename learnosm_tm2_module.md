@@ -66,7 +66,6 @@ The area of interest defined by the file upload or hand drawn will appear in the
 ### Using the Square Grid for task squares
 To create uniform square tiles, select the Square Grid option and click next.  
 The area of interest is automatically split into grid cells and each cell becomes a task. The larger the project area, the larger the resulting squares will be. Determine the optimal tile size based on the five relative Tile Size options. As such, a smaller tile size will result in more tasks as shown in the screenshots.  The optimal tile size will therefore depend both on the size of the area (create smaller tiles for a large project) and the number of features that will likely need to be mapped within each tile. Generally speaking, as the size of the area of interest and/or the number of likely features increases, the tile size chosen for the project should decrease. 
-> Generally small task squares are better
 
 ![TM Tile Sizes][]{: width="1500"}
 
