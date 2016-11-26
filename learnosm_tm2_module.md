@@ -80,7 +80,7 @@ The area of interest is automatically split into grid cells and each cell become
 -  **Conclusion** Try mapping an area of the project yourself to see how easy it is and what difficulties will be faced. This should help you to decide on an optimum square size. Allow splitting, but not to infinity - some new mappers continually split squares until they are so small that it becomes extremely difficult to map.  
 
 ### Arbitrary Geometries
-Each individual polygon in the area of interest (AOI) represents an individual task.  If the AOI consists of one polygon, the project will have just one task.
+It is possible if you uploaded a file to define your project area, it could  information about the exact shapes you want your project's individual tasks to be.  If the AOI consists of one polygon, the project will have just one task.
 
 ### Considerations concerning Imagery
 
