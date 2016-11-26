@@ -63,10 +63,10 @@ The area of interest defined by the file upload or hand drawn will appear in the
 1. Square Grid - The Tasking manager will uniformly divided up the overall project area in the exactly the same sized task squares. This is usually a very good idea for general corwdmapping projects.
 2. Arbitrary Geometries - If you uploaded a file to define your project area, that file can also contain the shapes for the individual task. There has a to be special need in the mapping to create custom task shapes. An import of roads project might need custom task shapes for example.
 
-### Splitting the Area of Interest into Task Squares
-There are two options for delineating the individual tiles that represent an area to be mapped. You may select square tiles of equal size or create arbitrary shapes:
+### Using the Square Grid for task squares
 To create uniform square tiles, select the Square Grid option and click next.  
-The area of interest is automatically split into grid cells and each cell becomes a task. The larger the project area, the larger the resulting squares will be. Determine the optimal tile size based on the five Tile Size options. As such, a smaller tile size will result in more tasks as shown in the screenshots.  The optimal tile size will therefore depend both on the size of the area (create smaller tiles for a large project) and the number of features that will likely need to be mapped within each tile.  Generally speaking, as the size of the area of interest and/or the number of likely features increases, the tile size chosen for the project should decrease. 
+The area of interest is automatically split into grid cells and each cell becomes a task. The larger the project area, the larger the resulting squares will be. Determine the optimal tile size based on the five relative Tile Size options. As such, a smaller tile size will result in more tasks as shown in the screenshots.  The optimal tile size will therefore depend both on the size of the area (create smaller tiles for a large project) and the number of features that will likely need to be mapped within each tile. Generally speaking, as the size of the area of interest and/or the number of likely features increases, the tile size chosen for the project should decrease. 
+> Generally small task squares are better
 
 ![TM Tile Sizes][]{: width="1500"}
 
