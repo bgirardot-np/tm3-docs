@@ -6,6 +6,6 @@ The Chapters in the book are organized around different mapping object types, e.
 
 This full default set of instructions will be made available at project creation time and Project Managers can just select they ones they like or none at all. 
 
-Our goal is consistent, good instructions that are default so we are confident with the best set of instructions available at project creation by doing nothing.
+Our goal is consistent, good instructions that are entered by default so we are confident with the best set of instructions available at project creation.
 
 This will also support translation. If Project Managers just use the defaults, it will be added in at least 5 languages. It also provides an easily printable PDF version of these instructions or a subset of these instructions in at least 5 languages.
