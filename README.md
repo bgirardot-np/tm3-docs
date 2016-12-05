@@ -1,4 +1,4 @@
-# *This Book: HOTOSM Tasking Manager Default Instruction Set*
+# **This Book: HOTOSM Tasking Manager Default Instruction Set**
 
 This is a gitbook repository focused on collaborative editing to arrive at a community consensus on a very good set of default Tasking Manager project instructions as well as generate documentation for the Tasking Manager 3.0.
 
