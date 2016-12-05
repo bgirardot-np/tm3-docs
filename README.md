@@ -8,4 +8,4 @@ This full default set of instructions will be made available at project creation
 
 Our goal is consistent, good instructions that are entered by default so we are confident with the best set of instructions available at project creation.
 
-This will also support translation. If Project Managers just use the defaults, it will be added in at least 5 languages. It also provides an easily printable PDF version of these instructions or a subset of these instructions in at least 5 languages.
+This will also support translation. If project managers just use the defaults, it will be added in at least 5 languages. It also provides an easily printable PDF version of these instructions or a subset of these instructions in at least 5 languages.
