@@ -4,7 +4,7 @@
 
 Project Specific Mapping Instructions
 =========================
-* The following provides several examples of instructions that could be used in the TM as specific mapping instructions:
+* The following provides several examples of instructions that could be used in the TM as specific mapping Instructions:
 * 
 * "Many of the squares in a project may already be partially or fully mapped. In this case map more if needed or fix up the existing mapping. Mark it "Done" in the Tasking Manager (TM) if the square is already complete"
 * "Connect or join roads that are not connected to the main network or nearby roads. Roads that are near to each other but not connected may create validation errors. In addition, connected roads improve map routing"
