@@ -1,7 +1,5 @@
 Buildings
 =======
-The following provide sample instructions on mapping buildings that could be used in the Instruction section:
-
 * "Please accurately outline all the buildings you can find. The outline should be for the full size of the building even if it is partly covered by trees in the imagery"
 * "Most buildings are rectangular therefor after drawing the outline, **use the 's' key in the iD web editor to "square" the corners**"
 * "For circular buildings there is the 'o' key in the iD editor to create a circular structure"
