@@ -8,8 +8,9 @@
 * [Rural Land Mapping](rural_land_mapping.md)
 * [Open Area Mapping](open_area_mapping.md)
 * [Waterway Mapping](waterway_mapping.md)
+* [Imagery Notes](imagery-notes.md)
 * [General Good Mapping Instructions](general_good_mapping_instructions.md)
-* [Roads, buildings, streams with images](roads,_buildings,_streams_with_images.md)
 * [TM Project Creation Best Practices](tm_project_creation_best_practices.md)
-* [LearnOSM TM2 Module](learnosm_tm2_module.md)
+* [Roads, buildings, streams with images](roads,_buildings,_streams_with_images.md)
+* Imagery Notes
 
