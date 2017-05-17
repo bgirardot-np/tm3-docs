@@ -12,5 +12,5 @@
 * [General Good Mapping Instructions](general_good_mapping_instructions.md)
 * [TM Project Creation Best Practices](tm_project_creation_best_practices.md)
 * [Roads, buildings, streams with images](roads,_buildings,_streams_with_images.md)
-* Imagery Notes
+* [Imagery Notes](imagery-notes.md)
 
